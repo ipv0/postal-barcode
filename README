@@ -25,6 +25,6 @@ The QR code will be displayed next to the tracking number on the tracking page.
 ============
 (my goals)
 ============
-Write a userscript for chrome that's packaged as an extension (i.e. using manifest.json and etc)
+Write a userscript that's packaged as a chrome extension (i.e. using manifest.json)
 Learn to include and utilize jQuery in chrome userscripts.
 TBA
