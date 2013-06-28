@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "content_scripts": [ {
+        "exclude_globs":    [  ],
+        "include_globs":    [ "*" ],
+        "js":               [ "postal-barcode.user.js" ],
+        "matches":          ["https://www.canadapost.ca/*", "http://www.canadapost.ca/*"],
+        "run_at": "document_end"
+    } ],
+    "converted_from_user_script": true,
+    "description":  "Displays a qr code next to the tracking number",
+    "name":         "Postal Barcodes",
+    "version":      "1"
+}
