@@ -1,7 +1,9 @@
+#### *Note: Only for Canada Post website*
+
 ### About
 
 This is an unpacked Chrome extension/userscript. 
-On Canada Post tracking website - displays the QR code of the tracking number 
+Works on Canada Post tracking website - displays the QR code of the tracking number 
 and helps easily add the package to your phone tracking app.
 
 ------------
