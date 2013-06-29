@@ -2,7 +2,7 @@
 
 ### About
 
-This is an unpacked Chrome extension/userscript. 
+This is a packed(*postal-barcode.crx*) and unpacked(repo contents) Chrome extension/userscript. 
 Works on Canada Post tracking website - displays the QR code of the tracking number 
 and helps easily add the package to your phone tracking app.
 
