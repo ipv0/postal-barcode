@@ -26,8 +26,15 @@ The QR code will be displayed next to the tracking number on the tracking page.
 
 ------------
 
-### (my goals)
+### (learning goals)
 
 * Write a userscript that's packaged as a chrome extension (i.e. using manifest.json)
 * Learn to include and utilize jQuery in chrome userscripts.
-* More and much more
+ 
+------------
+
+### TODO
+
+* Add USPS
+
+
